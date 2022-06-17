@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1200px;
+    background-color: bisque;
+    margin: 100px auto;
+    position: sticky;
+    top: 0;
+}
+img {
+    width: 350px;
+    height: 350px;
+  
+}
+/* .item:hover {
+   background-color: ;
+} */
+.image {
+    width: 350px;
+    height: 350px;
+    background-color: blueviolet;
+
+  }
+
